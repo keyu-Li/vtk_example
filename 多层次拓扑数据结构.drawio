@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T16:01:20.550Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.5.3" etag="RnWnbVvcaXgu-Oo6cE9W" type="github"><diagram id="a4T2Av-R-Nv5NYNU1mg5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-13T16:06:52.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="rdmNDdVA-GaO7wBcTtA8" version="20.5.3" type="github">
+  <diagram id="a4T2Av-R-Nv5NYNU1mg5" name="第 1 页">
+    <mxGraphModel dx="851" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jcXiB8XxIiKJDlJOIN_1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36FF3C;strokeWidth=6;" edge="1" parent="1" source="jcXiB8XxIiKJDlJOIN_1-1" target="jcXiB8XxIiKJDlJOIN_1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcXiB8XxIiKJDlJOIN_1-1" value="拓扑数据结构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcXiB8XxIiKJDlJOIN_1-2" value="&lt;b&gt;坐标集（Coordinate Sets）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jcXiB8XxIiKJDlJOIN_1-3" value="&lt;b&gt;拓扑关系（Topologies）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="299" y="190" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jcXiB8XxIiKJDlJOIN_1-4" value="&lt;b&gt;场域（Fields）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="190" width="230" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jcXiB8XxIiKJDlJOIN_1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36FF3C;strokeWidth=6;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jcXiB8XxIiKJDlJOIN_1-1" target="jcXiB8XxIiKJDlJOIN_1-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="120" as="sourcePoint" />
+            <mxPoint x="490" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jcXiB8XxIiKJDlJOIN_1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36FF3C;strokeWidth=6;entryX=0.53;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jcXiB8XxIiKJDlJOIN_1-1" target="jcXiB8XxIiKJDlJOIN_1-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="90" as="sourcePoint" />
+            <mxPoint x="660" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
